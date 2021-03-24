@@ -1,0 +1,43 @@
+_repo: The-Third-Little-Green-Man_64512
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: McWilliams, Al
+    aliases:
+    - McWilliams, Alden Spurr
+    - McWilliams, A.
+    birthdate: 1916
+    deathdate: 1993
+    gutenberg_agent_id: '52573'
+    url: http://www.gutenberg.org/2009/agents/52573
+    wikipedia: https://en.wikipedia.org/wiki/Al_McWilliams
+creator:
+  author:
+    agent_name: Knight, Damon
+    aliases:
+    - Fleming, Stuart
+    - Knight, Damon Francis
+    birthdate: 1922
+    deathdate: 2002
+    gutenberg_agent_id: '25414'
+    url: http://www.gutenberg.org/2009/agents/25414
+    wikipedia: https://en.wikipedia.org/wiki/Damon_Francis_Knight
+description: ''
+gutenberg_issued: '2021-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64512'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Alcoholics -- Fiction'
+- !lcsh 'Venus (Planet) -- Fiction'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Science fiction'
+- GITenberg
+title: The Third Little Green Man
+url: http://www.gutenberg.org/ebooks/64512
