@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '52573'
     url: http://www.gutenberg.org/2009/agents/52573
     wikipedia: https://en.wikipedia.org/wiki/Al_McWilliams
+covers:
+- cover_type: archival
+  image_path: 64512-h/images/cover.jpg
 creator:
   author:
     agent_name: Knight, Damon
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25414
     wikipedia: https://en.wikipedia.org/wiki/Damon_Francis_Knight
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64512#The-Third-Little-Green-Man
 gutenberg_issued: '2021-02-09'
 gutenberg_type: Text
 identifiers:
